@@ -63,7 +63,7 @@ Data Analyst | Python Back-End Developer | Automation Engineer
 </a>
 
 </p>
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 
