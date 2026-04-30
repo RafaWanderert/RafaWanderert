@@ -65,7 +65,7 @@ Data Analyst | Python Back-End Developer | Automation Engineer
 </p>
 
 <picture align="center">
-  <s<img src="https://raw.githubusercontent.com/RafaWanderert/gitrepo/output/snake.svg" alt="Snake animation" />
+  <s<img src="https://raw.githubusercontent.com/RafaWanderert/RafaWanderert/output/snake.svg" alt="Snake animation" />
 </picture>
 
 
